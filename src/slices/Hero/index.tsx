@@ -1,6 +1,6 @@
 "use client";
 
-import { asText, Content } from "@prismicio/client";
+// import { asText, Content } from "@prismicio/client";
 import { PrismicNextImage } from "@prismicio/next";
 import { PrismicRichText, SliceComponentProps } from "@prismicio/react";
 import gsap from "gsap";
@@ -21,7 +21,7 @@ gsap.registerPlugin(useGSAP, ScrollTrigger);
 /**
  * Props for `Hero`.
  */
-export type HeroProps = SliceComponentProps<Content.HeroSlice>;
+export type HeroProps = SliceComponentProps<any>;
 
 /**
  * Component for "Hero" Slices.

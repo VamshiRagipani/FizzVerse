@@ -1,6 +1,6 @@
 "use client";
 
-import { Content } from "@prismicio/client";
+// import { Content } from "@prismicio/client";
 import {
   PrismicRichText,
   PrismicText,
@@ -37,7 +37,7 @@ const FLAVORS: {
 /**
  * Props for `Carousel`.
  */
-export type CarouselProps = SliceComponentProps<Content.CarouselSlice>;
+export type CarouselProps = SliceComponentProps<any>;
 
 /**
  * Component for "Carousel" Slices.

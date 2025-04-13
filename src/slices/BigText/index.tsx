@@ -1,10 +1,10 @@
-import { Content } from "@prismicio/client";
+// import { Content } from "@prismicio/client";
 import { SliceComponentProps } from "@prismicio/react";
 
 /**
  * Props for `BigText`.
  */
-export type BigTextProps = SliceComponentProps<Content.BigTextSlice>;
+export type BigTextProps = SliceComponentProps<any>;
 
 /**
  * Component for "BigText" Slices.

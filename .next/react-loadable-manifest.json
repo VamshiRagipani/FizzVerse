@@ -1,9 +1,7 @@
 {
   "..\\node_modules\\@react-three\\drei\\core\\VideoTexture.js -> hls.js": {
     "id": "..\\node_modules\\@react-three\\drei\\core\\VideoTexture.js -> hls.js",
-    "files": [
-      "static/chunks/_app-pages-browser_node_modules_hls_js_dist_hls_js.js"
-    ]
+    "files": []
   },
   "..\\node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision": {
     "id": "..\\node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision",
